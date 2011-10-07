@@ -1,0 +1,8 @@
+*.ncb
+*.suo
+*.user
+*.dll
+*.exe
+*.ilk
+*pdb
+obj/*
